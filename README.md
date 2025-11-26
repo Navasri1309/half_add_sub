@@ -1,4 +1,4 @@
-<img width="424" height="249" alt="half_adder_tt1" src="https://github.com/user-attachments/assets/85a3ab5a-679b-42d9-aefe-8366fea34f91" /># HALF_ADDER_SUBTRACTOR
+# HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -35,9 +35,9 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
-<img width="424" height="249" alt="half_adder_tt1" src="https://github.com/user-attachments/assets/a6a737b5-daf7-49c9-85cf-3a1b5090f5a7" />
+<img width="888" height="301" alt="Screenshot 2025-11-26 201401" src="https://github.com/user-attachments/assets/33915bb5-6ba8-4d60-9776-ce07964ee480" />
 
-![half sub](https://github.com/user-attachments/assets/4bf9f576-b4b3-4b7a-b00c-7849ee0e33bc)
+<img width="868" height="296" alt="Screenshot 2025-11-26 201415" src="https://github.com/user-attachments/assets/a0bb6632-ba45-4799-a5d3-62bce494afa7" />
 
 
 **Procedure**
